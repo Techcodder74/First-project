@@ -1,0 +1,88 @@
+.head{
+    display : box;
+    background-color: #1F2947;
+    outline: 2px solid  #1F2947 ;
+    padding: 30px 33px 30px 170px;
+}
+#Title{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight:bold;
+    padding-top: 55px ;
+    
+}
+#he{
+   padding : 0px 0px 0px 900px;
+    text-align: right;
+    margin-top: 3px;
+    color: #E5E7EB;
+}
+.column{
+    align-self:self-end;
+}
+
+#Hea{
+    padding : 0px 0px 0px 0px;
+    padding :0px;
+    text-align: left;
+    
+    font-size: 24px;
+    color:#F9FAF8;
+}
+#Imf_Head{
+    margin-top: 0px;
+    padding : 55px 55px 5px 55px;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+
+}
+#sec{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+#Quote{
+    outline: 1px solid #E5E7EB;
+    padding: 33px 22px 33px 55px;
+   background-color: #E5E7EB;
+   font-size: 36px;
+   font-style: italic;
+   color: #1F2937;
+}
+#author{
+    padding-left: 600px;
+    text-align: left;
+    
+    font-size: 25px;
+    font-weight: 800;
+}
+.foot{
+    outline:4px solid blue;
+    padding: 33px 22px 33px 400px;
+    color: #E5E7EB;
+    background-color: blue ;
+}
+ul{
+    list-style-type: none;
+    margin: 44px;
+    padding: 44px 44px 44px 222px;
+    display: flex;
+   flex-direction: row;
+
+}
+.rt{
+    padding : 33px 
+}
+.empty-box {
+    width: 100px;
+    height: 100px;
+    background-color:  white;
+    outline: 2px solid blue;
+    border-radius: 10px;
+    /* Add any other styling properties you want */
+  }
+  .im{
+    padding: 55px 33px 44px 999px;
+    width : 400;
+    
+  }
